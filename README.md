@@ -29,4 +29,4 @@ yarn start
 
 ## Screenshots
 
-![Screenshot (117)](https://user-images.githubusercontent.com/72096769/189675342-e4c35965-c00b-4554-ad13-c2830513a77b.png)
+![Screenshot (118)](https://user-images.githubusercontent.com/72096769/189729878-f64b6bd4-f1b6-4103-bfa8-1e8accf618bd.png)

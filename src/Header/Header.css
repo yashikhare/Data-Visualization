@@ -1,0 +1,14 @@
+#header{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(14, 118, 183);
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+@media screen and (max-width: 500px) {
+    #header{
+        text-align: center;
+        font-size: x-large;
+    }
+}

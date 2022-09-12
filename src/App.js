@@ -1,25 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Bar from "./Components/Graphs/Bar";
+import Scatter from "./Components/Graphs/Scatter";
+import Header from "./Header/Header";
 
-function App() {
+function Graph() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Header />
+      <Bar />
+      <Scatter />
     </div>
   );
 }
 
-export default App;
+export default Graph;
